@@ -1,0 +1,11 @@
+{
+    "name": "neooblaster/testcomposer",
+    "description": "Test Composer Params",
+
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/neooblaster/TestComposer"
+        }
+    ]
+}
